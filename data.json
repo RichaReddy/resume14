@@ -1,0 +1,22 @@
+{
+  "career":{
+    "info":"To complete MS."
+  },
+  "education":[
+  {
+    "degree":"SSC",
+    "school":"St.annes",
+    "data":["2013","87%"]
+  },
+  {
+    "degree":"INTERMEDIATE",
+    "school":"PAGE",
+    "data":["2015","90%"]
+  },
+  {
+    "degree":"B.tech",
+    "school":"SVEC",
+    "data":["2019","80%"]
+  }
+  ]
+}
